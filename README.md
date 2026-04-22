@@ -1,3 +1,5 @@
+![Power BI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 # Tableau de bord global de suivi des projets (Power BI)
 
 Ce projet a été développé pour une entreprise souhaitant suivre l’ensemble de ses projets en cours à l’échelle mondiale, à travers un tableau de bord centralisé.
